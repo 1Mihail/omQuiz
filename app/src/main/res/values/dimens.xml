@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="strokeWidth">2dp</dimen>
+    <dimen name="radiuSize">5dp</dimen>
+    <dimen name="textSize">16sp</dimen>
+</resources>

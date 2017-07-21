@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">OnlineMarketingQuiz</string>
+    <string name="submit">Submit</string>
+    <string name="q1">1. What does SEO stand for?</string>
+    <string name="q2">2. What are the primary components of on-page optimization?</string>
+    <string name="q3">3. If you want to get to the administative section of wordpress what URL would you need to type in? </string>
+    <string name="q4">4. What are perma-links? As a function of Wordpress?</string>
+    <string name="q5">5. What is the most popular search engine?</string>
+
+    <string name="a1">Search Engine Optimization</string>
+
+    <string name="a20">Title Tag</string>
+    <string name="a21">H1 Tags</string>
+    <string name="a22">Anchor Text </string>
+    <string name="a23">Javascript</string>
+
+    <string name="a30">Site.com/wp</string>
+    <string name="a31">Site.com/word-press</string>
+    <string name="a32">Site.com/admin</string>
+    <string name="a33">Site.com/wp-admin</string>
+
+    <string name="a40">The links that show up in the blog roll</string>
+    <string name="a41">The setting to customize urls</string>
+    <string name="a42">The portion of the url that shows up after .com </string>
+    <string name="a43">The url</string>
+
+    <string name="a5">google</string>
+
+    <string name="hint">Answer</string>
+    <string name="finalScore">Final score: </string>
+</resources>
